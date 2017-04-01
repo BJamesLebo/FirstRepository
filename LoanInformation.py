@@ -1,3 +1,5 @@
+#This file builds upon the monthlyloan.py file also posted in this repository
+
 #This program calculates and returns the monthly payments for a loan
 def calculate_payment (principal,annual_interest_rate,duration):
     if annual_interest_rate==0:
